@@ -1,28 +1,14 @@
 {
-  "posts": [
+  "users": [
     {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
+      "cin": 01234567,
+      "matricule": 01234567
     }
   ],
-  "comments": [
+  "identifiant": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "nom": "haythem",
+      "prenom": "mejerbi"
     }
   ],
   "profile": {
