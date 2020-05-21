@@ -4,5 +4,9 @@
   ],
   "identifiant": [
     { "id": 1, "nom": "foulen", "prenom": "ben foulen" }
-  ]
+  ],
+  "profile": {
+    "name": "Zlagi"
+  }
+}
 }
