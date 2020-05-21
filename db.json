@@ -9,8 +9,8 @@
   "identifiant": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "nom": "foulen",
+      "prenom": "ben foulen"
     }
   ],
   "profile": {
