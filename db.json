@@ -1,7 +1,7 @@
 {
   "users": [
     {
-   "id": 12345678,
+   "id": 1,
       "cin": "012345678",
       "matricule": "12345678"
     }
@@ -17,7 +17,7 @@
   
   "posts": [
     {
-    "userId": 12345678,
+    "userId": 1,
     "id": 1,
     "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
     "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
