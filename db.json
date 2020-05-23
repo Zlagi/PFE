@@ -2,11 +2,8 @@
   "users": [
     {
    "id": 1 ,
-      "pass": 
-        {
-         "cin": "012345678",
-         "matricule": 2
-        }
+   "cin": "012345678",
+   "matricule": 2
     }
   ],
   
