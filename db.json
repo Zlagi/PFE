@@ -14,20 +14,12 @@
     }
   ],
   
-  "password": [
-    {
-      "id": 1,
-      "pass": 2,
-      "matricule":"foulen"
-    }
-  ],
-  
   "posts": [
     {
     "userId": 1,
     "id": 1,
-    "title": "sunt",
-    "body": "fjjajkkr akr"
+    "title": "TEST 1",
+    "body": "TEST 2"
     }
   ],
   "profile": {
