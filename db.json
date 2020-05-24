@@ -17,7 +17,8 @@
   "password": [
     {
       "id": 1,
-      "pass": 2
+      "pass": 2,
+      "matricule":"foulen"
     }
   ],
   
