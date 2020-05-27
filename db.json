@@ -2,29 +2,29 @@
   "users": [
     {
    "id": 1 ,
-   "identifiant unique": "110345678",
+   "identifiantUnique": "110345678",
    "nom": "RIAHI",
    "prenom" : "KHALIL",
-   "prenom pere": "ADEL",
-   "prenom grand pere" : "AHMED",
-   "nom mere": "SOUAD",
-   "prenom mere" : "TLILI",
+   "prenomPere": "ADEL",
+   "prenomGrandPere" : "AHMED",
+   "nomMere": "SOUAD",
+   "prenomMere" : "TLILI",
    "sexe": "HOMME",
    "date": "16/08/1985",
-   "type piece" : "CIN",
-   "numero piece": "07233008",
+   "typePiece" : "CIN",
+   "numeroPiece": "07233008",
       
-   "identifiant unique1": "2430045870",
+   "identifiantUnique1": "2430045870",
    "nom1": "TRABELSI",
    "prenom1" : "NAJOUA",
-   "prenom pere1": "MOKHTAR",
-   "prenom grand pere1" : "SALAH",
-   "nom mere1": "RADHIA",
-   "prenom mere1" : "NOUIRA",
+   "prenomPere1": "MOKHTAR",
+   "prenomGrand pere1" : "SALAH",
+   "nomMere1": "RADHIA",
+   "prenomMere1" : "NOUIRA",
    "sexe1": "FEMME",
    "date1": "25/10/1988",
-   "type pieece1" : "CIN",
-   "numero piece1": "07112720"
+   "typePieece1" : "CIN",
+   "numeroPiece1": "07112720"
     }
   ],
   
