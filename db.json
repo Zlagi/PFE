@@ -44,19 +44,6 @@
     "montantSupp": "4000",
     "montantPension": "17000",
     "nbPoint": "60"
-    },
-    {
-    "userId": "1",
-    "id" : 2,
-    "nbTriCons": "10",
-    "nbTriNonCons": "5",
-    "pourcentage": "15%",
-    "taux": "7%",
-    "pension": "10000",
-    "coefficient": "8",
-    "montantSupp": "4000",
-    "montantPension": "17000",
-    "nbPoint": "60"
     }
   ],
   
