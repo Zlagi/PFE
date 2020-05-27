@@ -46,6 +46,7 @@
     "nbPoint": "60"
     },
     {
+    "userId": "1",
     "id" : 2,
     "nbTriCons": "10",
     "nbTriNonCons": "5",
