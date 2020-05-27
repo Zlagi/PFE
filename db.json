@@ -33,10 +33,16 @@
   
   "posts": [
     {
-    "userId": 1,
-    "id": 1,
-    "title": "TEST 1",
-    "body": "TEST 2"
+    "userId": "1",
+    "nbTriCons": "10",
+    "nbTriNonCons": "5",
+    "pourcentage": "15%",
+    "taux": "7%",
+    "pension": "10000 dinars",
+    "nbPoint": "60,
+    "coefficient": "8",
+    "montantSupp": "4000 dinars",
+    "montantPension": "17000 dinars"
     }
   ],
   "profile": {
