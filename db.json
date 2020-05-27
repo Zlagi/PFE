@@ -2,15 +2,35 @@
   "users": [
     {
    "id": 1 ,
-   "cin": "012345678",
-   "matricule": 2
+   "identifiant unique": "110345678",
+   "nom": "RIAHI",
+   "prenom" : "KHALIL",
+   "prenom pere": "ADEL",
+   "prenom grand pere" : "AHMED",
+   "nom mere": "SOUAD",
+   "prenom mere" : "TLILI",
+   "sexe": "HOMME",
+   "date": "16/08/1985",
+   "type piece" : "CIN",
+   "numero piece": "07233008",
+      
+   "identifiant unique1": "2430045870",
+   "nom1": "TRABELSI",
+   "prenom1" : "NAJOUA",
+   "prenom pere1": "MOKHTAR",
+   "prenom grand pere1" : "SALAH",
+   "nom mere1": "RADHIA",
+   "prenom mere1" : "NOUIRA",
+   "sexe1": "FEMME",
+   "date1": "25/10/1988",
+   "type pieece1" : "CIN",
+   "numero piece1": "07112720"
     }
   ],
   
   "identifiant": [
     {
       "id": 2,
-      "nom": "foulen"
     }
   ],
   
