@@ -34,6 +34,7 @@
   "posts": [
     {
     "userId": "1",
+    "id" : 1,
     "nbTriCons": "10",
     "nbTriNonCons": "5",
     "pourcentage": "15%",
