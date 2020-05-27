@@ -34,10 +34,22 @@
   "posts": [
     {
     "userId": "1",
-    "id" : 1
+    "id" : 1,
+    "nbTriCons": "10",
+    "nbTriNonCons": "5",
+    "pourcentage": "15%",
+    "taux": "7%",
+    "pension": "10000",
+    "nbPoint": "60,
+    "coefficient": "8",
+    "montantSupp": "4000",
+    "montantPension": "17000"
     }
   ],
   "profile": {
     "name": "Zlagi"
   }
 }
+
+
+    
