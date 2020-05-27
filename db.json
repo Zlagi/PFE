@@ -1,7 +1,4 @@
 {
-  "profile": {
-    "name": "Zlagi"
-  },
   "users": [
     {
    "id": 1 ,
@@ -45,7 +42,11 @@
     "pension": "10000",
     "nbPoint": "60
     }
-  ]
+  ],
+  
+  "profile": {
+    "name": "Zlagi"
+  }
 }
 
 
