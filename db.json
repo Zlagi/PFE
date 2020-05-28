@@ -31,6 +31,33 @@
     }
   ],
   
+   "relevee": [
+    {
+    "userId": "1",
+    "id" : 1,
+    "trimestre" : "1",
+    "annee": "2020",
+    "salaire": "5800",
+    "nemployeur": "200145"
+    },
+    {
+    "userId": "1",
+    "id" : 2,
+    "trimestre" : "4",
+    "annee": "2019",
+    "salaire": "6800",
+    "nemployeur": "200145"
+    },
+    {
+    "userId": "1",
+    "id" : 3,
+    "trimestre" : "3",
+    "annee": "2019",
+    "salaire": "6200",
+    "nemployeur": "200145"
+    }
+  ],
+  
   "posts": [
     {
     "userId": "1",
