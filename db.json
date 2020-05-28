@@ -37,7 +37,7 @@
     "id" : 1,
     "trimestre" : "1",
     "annee": "2020",
-    "salaire": "5800",
+    "salaire": "5800 dinars",
     "nemployeur": "200145"
     },
     {
@@ -45,7 +45,7 @@
     "id" : 2,
     "trimestre" : "4",
     "annee": "2019",
-    "salaire": "6800",
+    "salaire": "6800 dianrs",
     "nemployeur": "200145"
     },
     {
@@ -53,7 +53,7 @@
     "id" : 3,
     "trimestre" : "3",
     "annee": "2019",
-    "salaire": "6200",
+    "salaire": "6200 dinars",
     "nemployeur": "200145"
     }
   ],
@@ -66,10 +66,10 @@
     "nbTriNonCons": "5",
     "pourcentage": "15%",
     "taux": "7%",
-    "pension": "10000",
+    "pension": "10000 dinars",
     "coefficient": "8",
-    "montantSupp": "4000",
-    "montantPension": "17000",
+    "montantSupp": "4000 dinars",
+    "montantPension": "17000 dinars",
     "nbPoint": "60"
     }
   ],
