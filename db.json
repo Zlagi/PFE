@@ -2,7 +2,6 @@
   "users": [
     {
    "id": 1 ,
-   "matricule": "2",
    "identifiantUnique": "110345678",
    "nom": "RIAHI",
    "prenom" : "KHALIL",
