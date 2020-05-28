@@ -25,12 +25,6 @@
     }
   ],
   
-  "identifiant": [
-    {
-      "id": 2
-    }
-  ],
-  
    "relevee": [
     {
     "userId": "1",
@@ -102,7 +96,8 @@
   ],
   
   "profile": {
-    "name": "Zlagi"
+    "name": "Zlagi",
+    "id": 2
   }
 }
 
